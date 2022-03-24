@@ -1,0 +1,17 @@
+ul li {
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#menu li.active a {
+    background-color: #3f2414;
+    color: #fabd20;
+    padding: 5px;
+}
+
+#menu a:hover {
+    background-color: #3f2414;
+    color: #fabd20;
+    padding: 5px;
+}

@@ -1,0 +1,48 @@
+#header a {
+    color: #1B2626;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a {
+    color: #AD7E05;
+    padding: 5px;
+}
+
+h1, h3 {
+    background-color: #3f2414;
+    color: #fabd20;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #3f2414;
+    padding: 5px;
+}
+
+#main p {
+    color: #3f2414;
+}
+
+#footer p {
+    color: #fabd20;
+    font-weight: bold;
+}
+
+label {
+    color: #3f2414;
+}
+
+input, textarea {
+    background-color: #fabd20;
+    color: #3f2414;
+}
+
+li {
+    color: #3f2414;
+}
+
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
