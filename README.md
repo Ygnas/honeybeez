@@ -1,7 +1,7 @@
 # Ignas Baranauskas web assignment 1
 > Your own website about honey🍯
 
-This simple website serves a website about honey and bees.
+This simple website about honey and bees.
 
 ## Installation
 
